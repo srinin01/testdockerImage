@@ -20,4 +20,4 @@
     # Use cache when you have big images, that you would only like to build partially
     cache: # optional
     # Use tag_names when you want to push tags/release by their git name
-    tag_names: $(date +%s) # optional
+    tag_names: # optional
